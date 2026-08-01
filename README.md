@@ -13,7 +13,6 @@ Developed and Designed by **Knowx** ☘️
 
 > [!NOTE]  
 > **Disclaimer:** This extension is for educational purposes. Automating user accounts violates Discord's ToS. Use at your own risk.
-
 <br><br>
 Original Source from aamiaa 🌸
 <br><br>
