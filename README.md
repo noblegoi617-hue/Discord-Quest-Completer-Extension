@@ -9,7 +9,7 @@
 <img align="right" src="idaa.png" alt="Extension Icon" width="180">
 
 Extension that automatically completes Discord quests. No more manually watching videos or playing massive games - just click a button and let it run quests one by one automatically. Works directly from your browser!
-
+Original Source from aamiaa 🌸
 Developed and Designed by **Knowx** ☘️
 
 > [!NOTE]  
