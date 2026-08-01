@@ -1,12 +1,12 @@
 <!-- Yeh code upar tera bada dark green poster center mein lagayega -->
 <p align="center">
-  <img src="banner.png" alt="Quest Completer Banner" width="100%">
+  <img src="poster.png" alt="Quest Completer Banner" width="100%">
 </p>
 
 # Discord Web Quest Completer Extension
 
 <!-- Yeh code tere icon ko right side mein set karega aur text left mein aayega -->
-<img align="right" src="icon.png" alt="Extension Icon" width="180">
+<img align="right" src="idaa.png" alt="Extension Icon" width="180">
 
 Extension that automatically completes Discord quests. No more manually watching videos or playing massive games - just click a button and let it run quests one by one automatically. Works directly from your browser!
 
